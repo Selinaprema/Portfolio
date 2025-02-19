@@ -25,16 +25,16 @@ I structured my **index.html** file with the following sections:
 
 ---
 
-## Styling with CSS 🎨  
+## Styling with CSS  
 To make the website visually appealing, I used **CSS** to:  
 - Customise **fonts, colors, and layout** for a professional look.  
 - Ensure the website is **responsive** across different screen sizes.  
 - Properly size the **profile image** and other elements for a clean UI.
 
-- ## How to Use 🚀  
+- ## How to Use 
 1. Open `index.html` in a browser to explore my portfolio.
 
-## Technologies Used 💻  
+## Technologies Used 
 - **HTML** – To structure the portfolio page.  
 - **CSS** – To style and make the website responsive.  
 
