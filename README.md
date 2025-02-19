@@ -1,8 +1,7 @@
 # My Developer Portfolio 
 
-## About This Project  
+## Project Description  
 This project is a **developer portfolio website** that showcases my **skills, services, and projects** to potential clients. As a freelance web developer, I built this website to highlight my expertise in **HTML, CSS, and JavaScript**.  
----
 
 ## Portfolio Website Structure  
 I structured my **index.html** file with the following sections:  
